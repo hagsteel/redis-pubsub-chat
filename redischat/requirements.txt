@@ -1,0 +1,7 @@
+Django
+cython
+-e git://github.com/surfly/gevent.git@1.0rc3#egg=gevent
+ipdb
+gevent-socketio
+django-debug-toolbar
+redis
